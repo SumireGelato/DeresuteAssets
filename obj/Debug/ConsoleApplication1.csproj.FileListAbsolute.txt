@@ -1,0 +1,14 @@
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\KillerOsaka\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
